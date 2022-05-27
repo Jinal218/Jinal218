@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hey!! Great to see you here! 👋
 
-<!--
-**Jinal218/Jinal218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Jinal" title="👋 Hi there! I'm Jinal"/>] -->
+<br />
 
-Here are some ideas to get you started:
+## About Me
+- 🏫 &nbsp; I'm student at Charotar University of Science & Technology persuing B. Tech in Computer Science & Engineering
+Degree
+- 🔭 &nbsp; I’m currently working on something cool: Netflix Clone :wink:
+- 🌱 &nbsp; I’m currently learning **Frontend Development**
+<!-- - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal). -->
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jinal218?tab=repositories/)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jinal-kotadia-62153a206/)
+<!-- - 📝 &nbsp; Checkout my [resume](https://mrkaushal.com/wp-content/uploads/2021/11/Resume.pdf) -->
+- 💬 &nbsp; Ask me about anything related to Python(well not exactly anything :sweat_smile:)
+- 😄 &nbsp; Pronouns: She/Her
+- ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<p align="center">
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jinal-kotadia-62153a206/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://github.com/jinal218"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
+  
+<hr/>
+
+## :memo: Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jinal218&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jinal218&hide_border=true&theme=radical" />
+</p>
+
+## 🔝 Most used languages
+
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinal218&layout=compact&hide_border=true&theme=radical" />
+  
+## 📈 Activity Graph 
+
+<p align="center">
+  <a href="https://github.com/jinal218">
+    <img
+      src="https://activity-graph.herokuapp.com/graph?username=jinal218&custom_title=Jinal's%20Contribution%20Graph&theme=github&area=true&hide_border=true"
+      width="100%">
+  </a>
+</p>
