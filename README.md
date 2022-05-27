@@ -1,4 +1,4 @@
-### Hey!! Great to see you here! 👋
+### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="30px">
 
 <!-- [<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Jinal" title="👋 Hi there! I'm Jinal"/>] -->
 <br />
@@ -46,4 +46,26 @@ Degree
       src="https://activity-graph.herokuapp.com/graph?username=jinal218&custom_title=Jinal's%20Contribution%20Graph&theme=github&area=true&hide_border=true"
       width="100%">
   </a>
+</p>
+
+<hr/>
+
+## 📕 Pinned Repositories
+
+<a href="https://github.com/Jinal218/NETFLIX-CLONE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinal218&repo=NETFLIX-CLONE&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/Jinal218/qrcode_jinal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinal218&repo=qrcode_jinal&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/Jinal218/bmi_jinal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinal218&repo=bmi_jinal&hide_border=true&theme=radical" />
+</a>
+
+<hr/>
+
+<p align="center">
+   <img src="https://github.com/jinal218/jinal218/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
