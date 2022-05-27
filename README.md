@@ -24,6 +24,7 @@ Degree
 <p align="center">
 <a href="https://www.linkedin.com/in/jinal-kotadia-62153a206/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
 <a href="https://github.com/jinal218"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/__.jinal._____"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
   
 <hr/>
 
