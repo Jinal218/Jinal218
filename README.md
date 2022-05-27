@@ -66,6 +66,6 @@ Degree
 
 <hr/>
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://github.com/jinal218/jinal218/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p> -->
