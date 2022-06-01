@@ -53,6 +53,10 @@ Degree
 
 ## 📕 Pinned Repositories
 
+<a href="https://github.com/Jinal218/Jarvis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinal218&repo=Jarvis&hide_border=true&theme=radical" />
+</a>
+
 <a href="https://github.com/Jinal218/NETFLIX-CLONE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jinal218&repo=NETFLIX-CLONE&hide_border=true&theme=radical" />
 </a>
