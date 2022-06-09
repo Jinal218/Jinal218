@@ -1,6 +1,6 @@
-### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="30px">
+### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="2%">
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://github.com/Jinal218/Jinal218/blob/main/assets/header.png)
 <br />
 
 ## About Me
