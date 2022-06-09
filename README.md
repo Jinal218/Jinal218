@@ -1,4 +1,4 @@
-### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="2%">
+### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="2.5%">
 
 ![](https://github.com/Jinal218/Jinal218/blob/main/assets/header.png)
 <br />
