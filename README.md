@@ -1,4 +1,11 @@
-### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="2.5%">
+<!-- ### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="2.5%"> -->
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jinal218.jinal218"> -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jinal+Kotadia....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ![](https://github.com/Jinal218/Jinal218/blob/main/assets/header.png)
 <br />
