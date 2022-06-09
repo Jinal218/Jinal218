@@ -1,6 +1,6 @@
 ### Hey!! Great to see you here! <img src="assets/wave-hand.gif" width="30px">
 
-<!-- [<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Jinal" title="👋 Hi there! I'm Jinal"/>] -->
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <br />
 
 ## About Me
