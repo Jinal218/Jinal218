@@ -36,9 +36,10 @@ Degree
 </p>
 
 ## 🔝 Most used languages
-
+<p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinal218&layout=compact&hide_border=true&theme=radical" />
-  
+</p>
+
 ## 📈 Activity Graph 
 
 <p align="center">
