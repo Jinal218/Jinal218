@@ -11,13 +11,13 @@
 <br />
 
 ## About Me
-- 🏫 &nbsp; I'm student at Charotar University of Science & Technology persuing B. Tech in Computer Science & Engineering
+- 🏫 &nbsp; I'm student at Charotar University of Science & Technology pursuing B. Tech in Computer Science & Engineering
 Degree
-- 🔭 &nbsp; I’m currently working on something cool: Netflix Clone :wink:
-- 🌱 &nbsp; I’m currently learning **Frontend Development**
+- 🔭 &nbsp; I’m currently working on something cool: Touchless facial recognition for securing entry & exit gates :wink:
+- 🌱 &nbsp; I’m currently learning **AI/ML**
 <!-- - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal). -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jinal218?tab=repositories/)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jinal-kotadia-62153a206/)
 <!-- - 📝 &nbsp; Checkout my [resume](https://mrkaushal.com/wp-content/uploads/2021/11/Resume.pdf) -->
 - 💬 &nbsp; Ask me about anything related to Python(well not exactly anything :sweat_smile:)
