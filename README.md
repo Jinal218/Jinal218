@@ -11,9 +11,7 @@
 <br />
 
 ## About Me
-- 🏫 &nbsp; I'm student at Charotar University of Science & Technology pursuing B. Tech in Computer Science & Engineering
-Degree
-- 🔭 &nbsp; I’m currently working on something cool: Touchless facial recognition for securing entry & exit gates :wink:
+- 🏫 &nbsp; I'm a student at Technische Universität Darmstadt pursuing an MSc. Artificial Intelligence and Machine Learning Degree
 - 🌱 &nbsp; I’m currently learning **AI/ML**
 <!-- - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal). -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jinal218?tab=repositories/)
